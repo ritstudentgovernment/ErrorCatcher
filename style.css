@@ -1,0 +1,44 @@
+/**
+ * filename: style.css
+ * description: Style for SG Error Catcher.
+ * created by: Omar De La Hoz
+ * created on: 04/07/17
+ */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+html, body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-color: #e9ebee;
+	font-family: 'Montserrat', sans-serif;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+
+div{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+
+img{
+	display: block;
+	margin: 0 auto;
+}
+
+@media only screen and (max-width: 500px) {
+
+	img{
+		width: 200px;
+	}
+
+	div{
+		margin: 0 auto;
+		width: 90%;
+	}
+}
