@@ -1,0 +1,4 @@
+{
+	"SLACK_WEBHOOK": "slack_webhook_url",
+	"SERVICE_URL": "url_of_service_that_will_be_monitored"
+}
