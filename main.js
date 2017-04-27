@@ -4,7 +4,7 @@
  */
 $(document).ready(function(){
 	$.ajax({
-		url: "/ErrorCatcher/notify.php",
+		url: "/notify.php",
 		type: "POST"
 	});
 });
