@@ -5,7 +5,7 @@ Custom 502 Error page with error catching capabilities.
 
 1. Clone this repo.
 
-2. Create a [Slack Webhook][1]in your desired channel.
+2. Create a [Slack Webhook][1] in your desired channel.
 
 3. Complete the `settings.json` file
 
