@@ -3,7 +3,7 @@ Custom 502 Error page with error catching capabilities.
 
 ## How to Install
 
-1. Clone this repo.
+1. Clone this repo inside `/usr/share/nginx/html/`
 
 2. Create a [Slack Webhook][1] in your desired channel.
 
